@@ -1,0 +1,9 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "2.2.*",
+        "monolog/monolog": "1.17.*",
+        "nesbot/carbon": "1.21.*",
+        "guzzlehttp/guzzle": "6.1.*"
+    }
+}
+
